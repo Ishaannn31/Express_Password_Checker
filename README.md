@@ -22,8 +22,8 @@ Usage
     Access the root route / to see the landing page (index.html).
 
     Password Check
-        Enter a password in the form.
-        The application checks if the password matches the hardcoded password (LordIshan).
+        Enter a password in the form. 
+        The application checks if the password matches the hardcoded password (Password: LordIshan).
         If the password is correct, the user is redirected to secret.html.
         If the password is incorrect, the user is redirected to reply.html.
 
